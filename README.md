@@ -1,7 +1,6 @@
 # Remix & Prisma(SQLite)で作るブログアプリ
 
-🙏Brad 氏のチュートリアル動画を参考に作成 🙏
-youtube.com/watch?v=d_BhzHVV4aQ
+🙏 Brad 氏の[チュートリアル動画](youtube.com/watch?v=d_BhzHVV4aQ)を参考に作成 🙏
 
 # Welcome to Remix!
 
